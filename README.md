@@ -32,3 +32,47 @@ Hyderabad | Delhi | Mumbai | Bengaluru | Chennai
   LST vs AQI change from baseline year
 
 ## Project Structure
+- `data/raw/` — Original downloaded datasets
+- `data/processed/` — Cleaned and merged datasets  
+- `notebooks/` — Jupyter/Colab analysis notebook
+- `images/` — All output charts and visualizations
+
+## Interactive Dashboard
+Coming soon — Tableau Public dashboard in progress.
+
+## Tools & Technologies
+| Category | Tools |
+|---|---|
+| Satellite Data | Google Earth Engine, Landsat 8 Collection 2 |
+| Analysis | Python, Pandas, NumPy, SciPy |
+| Visualization | Matplotlib, Seaborn |
+| Dashboard | Tableau Public (in progress) |
+| Environment | Google Colab |
+
+## Visualizations
+
+### LST Trends (2015–2024)
+![LST Trends](images/lst_trends.png)
+
+### NDVI (Green Cover) Trends (2015–2024)
+![NDVI Trends](images/ndvi_trends.png)
+
+### AQI Trends (2015–2023)
+![AQI Trends](images/aqi_trends.png)
+
+### Correlation Analysis
+![Correlation](images/correlation_analysis.png)
+
+### Heat Sensitivity Coefficient
+![Heat Sensitivity](images/heat_sensitivity.png)
+
+### Livability Trajectory Classification
+![Trajectory](images/trajectory_classification.png)
+
+### Heat-Pollution Decoupling Analysis
+![Decoupling](images/decoupling_analysis.png)
+
+## Author
+**Kiran Annavarapu**
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](YOUR_LINKEDIN_URL)
+- GitHub: [github.com/Annavarapukiran](https://github.com/Annavarapukiran)
