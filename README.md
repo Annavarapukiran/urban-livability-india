@@ -74,5 +74,5 @@ Coming soon — Tableau Public dashboard in progress.
 
 ## Author
 **Kiran Annavarapu**
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](YOUR_LINKEDIN_URL)
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/annavarapu-kiran-7a3a5a256)
 - GitHub: [github.com/Annavarapukiran](https://github.com/Annavarapukiran)
